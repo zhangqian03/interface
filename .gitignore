@@ -1,0 +1,11 @@
+.idea/*
+CreditApplication/templates/report/*.html
+CreditApplication\attachments/*
+CreditApplication\config/*
+CreditApplication\__pycache__/*
+CreditApplication\migrations\*
+WebPlatform\__pycache__/*
+WebPlatform\settings.*
+*.pyc
+
+
